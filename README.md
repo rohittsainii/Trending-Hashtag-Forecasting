@@ -209,7 +209,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 👥 Authors
 
-- **Rohit Saini** - *Initial work* - [YourGitHub](https://github.com/rohittsainii)
+- **Rohit Saini** - *Initial work* - [Rohit Saini](https://github.com/rohittsainii)
 
 ---
 
@@ -227,7 +227,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 For questions or collaboration opportunities:
 - **Email**: rohittsainii75@gmail.com
 - **LinkedIn**: [Rohit Saini](https://linkedin.com/in/rohittsainii)
-- **Project Link**: [https://github.com/yourusername/hashtag-trend-forecasting](https://github.com/rohittsainii/hashtag-trend-forecasting)
+- **Project Link**: [https://github.com/rohittsainii/hashtag-trend-forecasting](https://github.com/rohittsainii/hashtag-trend-forecasting)
 
 ---
 
